@@ -84,8 +84,8 @@ sudo bash Run.sh
 ```
 ## CONTRIBUTORS:
 
-- **HACK3RY2J**<br>
+- **HACK3RY2J** <br>
 [@] Mail : HACK3RY2J@gmail.com
 
-- **Anonyming (Anonym00)**
+- **Anonyming (Anonym00)** <br>
 [@] Mail : nick.zamega@yandex.ru (or anonym00crypto@protonmail.com)
