@@ -3,21 +3,24 @@
 
 ## Updates:
 **v1.0**<br>
-[+] Basic Features<br>
-[+] Non-Colourful Interface.<br><br>
+* Basic Features<br>
+* Non-Colourful Interface.<br><br>
 **v1.1**<br>
-[+] Adding Colours.<br><br>
+* Adding Colours.<br><br>
 **v1.2**<br>
-[+] Fixing Colour Issues<br>
-[+] Adding Tracking Feature.<br><br>
+* Fixing Colour Issues<br>
+* Adding Tracking Feature.<br><br>
 **v1.3**<br>
-[+] Adding Lolcat To Make More Colourful Start.<br><br>
+* Adding Lolcat To Make More Colourful Start.<br><br>
 **v1.4**<br>
-[+] Adding Auto-Update Feature.<br>
-[+] Adding Telegram Discussion.<br>
+* Adding Auto-Update Feature.<br>
+* Adding Telegram Discussion.<br>
+**this fork**<br>
+* Adding pacman support for Termux
 
 ## Note:
 
+- This fork only for Termux
 - The script requires working network connection to work.
 - No balance will be deducted for using this script to send SMS.
 - Don't put spaces in between phone number (Ex- 99999 99999)
@@ -61,27 +64,11 @@ To Send Messages Anonymously type the following commands in Termux:
 ```
 pkg install git
 pkg install python
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
+git clone https://github.com/Anonym00/Anon-SMS.git
 cd Anon-SMS
 bash Run.sh
 ```
 
-### > For Linux:
-
-**Notice:** 
-
-git installation methods are not universal and do differ between distributions,
-so, installing git as per instructions below may not work.
-Please check out how to install `git` for your Linux distribution.
-Commands below provide instructions for Debian-based systems.
-
-To Send Message Anonymously type the following commands in Linux terminal:
-```
-sudo apt install git
-git clone https://github.com/HACK3RY2J/Anon-SMS.git
-cd Anon-SMS
-sudo bash Run.sh
-```
 ## CONTRIBUTORS:
 
 - **HACK3RY2J** <br>
