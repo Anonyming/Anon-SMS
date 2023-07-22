@@ -13,8 +13,8 @@ else
 echo 'Installing Requirements....'
 echo .
 echo .
-apt install figlet toilet python3 curl ruby -y
-apt install python3-pip
+pkg install figlet toilet python3 curl ruby -y
+pkg install python3-pip
 gem install lolcat
 echo This Tool Is Created By HACK3RY2J
 echo This Script Is Created By Panda Hackers HACK3RY2J >update.pandahackers
@@ -60,7 +60,7 @@ rm *.xxx >/dev/null 2>&1
 exit 0
 elif [ $ch -eq 3 ];then
 clear
-apt install git -y
+pkg install git -y
 echo -e "\e[1;34m Requesting Update From Source..."
 echo -e "\e[1;34m Request Attempt Successful.."
 echo -e "\e[1;34m Updating Now..."
