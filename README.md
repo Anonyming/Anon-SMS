@@ -85,19 +85,7 @@ sudo bash Run.sh
 ## CONTRIBUTORS:
 
 - **HACK3RY2J**<br>
-[@] Mail At: HACK3RY2J@gmail.com
+[@] Mail : HACK3RY2J@gmail.com
 
-# CONTACT ME:
-
-Feel Free To Open An Issue...
-
-```
-                 Mail: HACK3RY2J@gmail.com
-      YouTube Channel: https://www.youtube.com/c/PandaHackers
-```
-
-<a href="https://www.youtube.com/c/PandaHackers">Check Out Our YouTube Channel</a><br>
-<a href="https://t.me/itzAnonSMS">Check Out Our Telegram Discussion</a><br><br>
-
-
-<a href="https://www.buymeacoffee.com/HACK3RY2J"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=HACK3RY2J&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
+- **Anonyming (Anonym00)**
+[@] Mail : nick.zamega@yandex.ru (or anonym00crypto@protonmail.com)
